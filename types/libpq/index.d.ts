@@ -6,7 +6,7 @@
 
 /// <reference types="node" />
 
-import {EventEmitter} from 'events';
+import { EventEmitter } from 'events';
 import {Buffer} from 'buffer';
 
 declare namespace Libpq {

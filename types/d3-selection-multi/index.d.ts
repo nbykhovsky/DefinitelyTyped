@@ -5,7 +5,7 @@
 
 // Last module patch version validated against: 1.0.0
 
-import {Selection, BaseType, ArrayLike, ValueFn} from 'd3-selection';
+import { Selection, BaseType, ArrayLike, ValueFn } from 'd3-selection';
 import {Transition} from 'd3-transition';
 
 /**

@@ -1,4 +1,4 @@
-import {trust, parseQueryString, buildQueryString} from 'mithril';
+import { trust, parseQueryString, buildQueryString } from 'mithril';
 import * as h from 'mithril/hyperscript';
 import {render} from 'mithril/render';
 import {redraw} from 'mithril/redraw';

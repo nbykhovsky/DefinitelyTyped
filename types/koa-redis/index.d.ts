@@ -3,7 +3,7 @@
 // Definitions by: Nick Simmons <https://github.com/nsimmons>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 
-import {ClientOpts} from 'redis';
+import { ClientOpts } from 'redis';
 import {SessionStore} from 'koa-generic-session';
 
 declare namespace redisStore {

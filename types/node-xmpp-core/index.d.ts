@@ -4,7 +4,7 @@
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 2.1
 /// <reference types="node" />
-import {Element} from 'ltx';
+import { Element } from 'ltx';
 import {EventEmitter} from 'events';
 
 // fixme: not ideal

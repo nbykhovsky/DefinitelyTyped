@@ -6,7 +6,7 @@
  * are not intended as functional tests.
  */
 
-import {hsv, HSVColor} from 'd3-hsv';
+import { hsv, HSVColor } from 'd3-hsv';
 import {rgb, RGBColor} from 'd3-color';
 
 let c: RGBColor;
